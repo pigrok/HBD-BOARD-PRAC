@@ -39,6 +39,16 @@
       "email": "asdf",
       "password": "123",
       "id": 8
+    },
+    {
+      "email": "123",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "password": "1111",
+      "id": 10
     }
   ],
   "boards": [
@@ -95,6 +105,30 @@
       "contents": "asdfasdf",
       "isDeleted": false,
       "id": 9
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "asdfasdd",
+      "isDeleted": false,
+      "id": 10
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "asdfas",
+      "isDeleted": false,
+      "id": 11
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "sdghr'",
+      "isDeleted": false,
+      "id": 12
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "sadfasdf",
+      "isDeleted": false,
+      "id": 13
     }
   ]
 }
