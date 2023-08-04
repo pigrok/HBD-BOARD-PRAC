@@ -109,26 +109,94 @@
     {
       "email": "jsr4613@naver.com",
       "contents": "asdfasdd",
-      "isDeleted": false,
+      "isDeleted": true,
       "id": 10
     },
     {
       "email": "jsr4613@naver.com",
       "contents": "asdfas",
-      "isDeleted": false,
+      "isDeleted": true,
       "id": 11
     },
     {
       "email": "jsr4613@naver.com",
       "contents": "sdghr'",
-      "isDeleted": false,
+      "isDeleted": true,
       "id": 12
     },
     {
       "email": "jsr4613@naver.com",
       "contents": "sadfasdf",
-      "isDeleted": false,
+      "isDeleted": true,
       "id": 13
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "asdfasdf",
+      "isDeleted": true,
+      "id": 14
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "sagw",
+      "isDeleted": true,
+      "id": 15
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "asdfa",
+      "isDeleted": true,
+      "id": 16
+    },
+    {
+      "email": "jsr4613@naver.com",
+      "contents": "safewfawe'",
+      "isDeleted": false,
+      "id": 17
+    }
+  ],
+  "comments": [
+    {
+      "boardId": "17",
+      "email": "jsr4613@naver.com",
+      "comments": "댓글 내용1",
+      "isDeleted": false,
+      "id": 1
+    },
+    {
+      "boardId": "17",
+      "email": "jsr4613@naver.com",
+      "comments": "댓글 내용2",
+      "isDeleted": false,
+      "id": 2
+    },
+    {
+      "boardId": "17",
+      "email": "jsr4613@naver.com",
+      "comments": "FASDFSD",
+      "isDeleted": false,
+      "id": 3
+    },
+    {
+      "boardId": "17",
+      "email": "jsr4613@naver.com",
+      "comments": "ASDFASD",
+      "isDeleted": false,
+      "id": 4
+    },
+    {
+      "boardId": "17",
+      "email": "jsr4613@naver.com",
+      "comments": "sdafsad",
+      "isDeleted": false,
+      "id": 5
+    },
+    {
+      "boardId": "17",
+      "email": "jsr4613@naver.com",
+      "comments": "asdfasdf",
+      "isDeleted": false,
+      "id": 6
     }
   ]
 }
