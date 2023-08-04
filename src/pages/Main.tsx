@@ -32,9 +32,9 @@ const Main: React.FC<any> = () => {
 
     try {
       // TODO: 이메일과 contents를 이용하여 post 요청 등록(isDeleted 기본값은 false)
-      const response = await axios.post("http://localhost:4000/boards", {
-        email: localStorage.email,
-        contents: contents,
+      await axios.post("http://localhost:4000/boards", {
+        email,
+        contents,
         isDeleted: false,
       });
       // TODO: 성공한 경우, "작성이 완료되었습니다. 아직 자동 새로고침이 불가하여 수동으로 갱신합니다." alert
